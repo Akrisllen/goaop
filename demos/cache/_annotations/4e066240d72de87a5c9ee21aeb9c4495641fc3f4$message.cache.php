@@ -1,0 +1,1 @@
+<?php return unserialize('a:1:{i:0;O:31:"Go\\Lang\\Annotation\\DeclareError":2:{s:5:"level";i:16384;s:5:"value";s:38:"@execution(Demo\\Annotation\\Deprecated)";}}');

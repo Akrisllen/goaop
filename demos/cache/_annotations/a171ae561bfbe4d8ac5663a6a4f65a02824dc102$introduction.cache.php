@@ -1,0 +1,1 @@
+<?php return unserialize('a:1:{i:0;O:33:"Go\\Lang\\Annotation\\DeclareParents":3:{s:11:"defaultImpl";a:1:{i:0;s:38:"Demo\\Aspect\\Introduce\\SerializableImpl";}s:9:"interface";a:1:{i:0;s:12:"Serializable";}s:5:"value";s:37:"within(Demo\\Example\\IntroductionDemo)";}}');

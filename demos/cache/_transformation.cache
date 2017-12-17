@@ -1,0 +1,62 @@
+<?php return array (
+  AOP_ROOT_DIR . '\\Demo\\Example\\LoggingDemo.php' => 
+  array (
+    'filemtime' => 1513511960,
+    'cacheUri' => AOP_CACHE_DIR . '\\Demo\\Example\\LoggingDemo.php',
+  ),
+  AOP_ROOT_DIR . '\\Demo\\Example\\CacheableDemo.php' => 
+  array (
+    'filemtime' => 1513511957,
+    'cacheUri' => AOP_CACHE_DIR . '\\Demo\\Example\\CacheableDemo.php',
+  ),
+  AOP_ROOT_DIR . '\\Demo\\Highlighter.php' => 
+  array (
+    'filemtime' => 1513511957,
+    'cacheUri' => NULL,
+  ),
+  AOP_ROOT_DIR . '\\Demo\\Aspect\\DeclareErrorAspect.php' => 
+  array (
+    'filemtime' => 1513511531,
+    'cacheUri' => NULL,
+  ),
+  AOP_ROOT_DIR . '\\Demo\\Aspect\\CachingAspect.php' => 
+  array (
+    'filemtime' => 1513511531,
+    'cacheUri' => NULL,
+  ),
+  AOP_ROOT_DIR . '\\Demo\\Aspect\\LoggingAspect.php' => 
+  array (
+    'filemtime' => 1513511531,
+    'cacheUri' => NULL,
+  ),
+  AOP_ROOT_DIR . '\\Demo\\Aspect\\IntroductionAspect.php' => 
+  array (
+    'filemtime' => 1513511531,
+    'cacheUri' => NULL,
+  ),
+  AOP_ROOT_DIR . '\\Demo\\Aspect\\PropertyInterceptorAspect.php' => 
+  array (
+    'filemtime' => 1513511531,
+    'cacheUri' => NULL,
+  ),
+  AOP_ROOT_DIR . '\\Demo\\Aspect\\FunctionInterceptorAspect.php' => 
+  array (
+    'filemtime' => 1513511531,
+    'cacheUri' => NULL,
+  ),
+  AOP_ROOT_DIR . '\\Demo\\Aspect\\FluentInterfaceAspect.php' => 
+  array (
+    'filemtime' => 1513511531,
+    'cacheUri' => NULL,
+  ),
+  AOP_ROOT_DIR . '\\Demo\\Aspect\\HealthyLiveAspect.php' => 
+  array (
+    'filemtime' => 1513511531,
+    'cacheUri' => NULL,
+  ),
+  AOP_ROOT_DIR . '\\Demo\\Aspect\\DynamicMethodsAspect.php' => 
+  array (
+    'filemtime' => 1513511531,
+    'cacheUri' => NULL,
+  ),
+);

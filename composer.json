@@ -1,0 +1,12 @@
+{
+    "require": {
+        "goaop/framework": "^2.1"
+    },
+    "autoload": {
+        "psr-4": { 
+        	"Demo\\": "demos/Demo/",
+        	"Demo\\Aspect\\": "demos/Demo/Aspect/",
+        	"Demo\\Example\\": "demos/Demo/Example/"
+        }
+    }
+}

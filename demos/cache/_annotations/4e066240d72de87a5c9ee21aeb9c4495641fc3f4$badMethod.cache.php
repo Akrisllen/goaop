@@ -1,0 +1,1 @@
+<?php return unserialize('a:1:{i:0;O:31:"Go\\Lang\\Annotation\\DeclareError":2:{s:5:"level";i:512;s:5:"value";s:60:"execution(public Demo\\Example\\ErrorDemo->notSoGoodMethod(*))";}}');
